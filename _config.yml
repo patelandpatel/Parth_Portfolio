@@ -1,17 +1,25 @@
-# add the following to _config.yml file
-# Data Scientist
+# Personal Information
 title: Parth Patel
-theme: jeykll-theme-minimal
+theme: jekyll-theme-minimal
 
-### Education
-Electrical Enogineer, PhD.
+# Education
+education: 
+  - degree: Electrical Engineer, PhD
+    institution: University of Texas at San Antonio
 
-### Work Experience
-Data scientist @ Univristy of Texas at San Antonio
-- 
--
+# Work Experience
+work_experience:
+  - title: Data Scientist
+    organization: University of Texas at San Antonio
+    description: |
+      Worked on various projects involving data analysis, machine learning, and AI models.
 
-###Projectw
-**EEG Band Discovery**
+# Projects
+projects:
+  - title: EEG Band Discovery
+    description: |
+      Project focused on discovering EEG bands for brain activity analysis and categorization.
 
-etc...
+# Other Information
+etc: |
+  Additional info here if needed.
